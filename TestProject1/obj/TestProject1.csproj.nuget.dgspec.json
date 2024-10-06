@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rohitluthra/Desktop/Folder 1/TestProject1/TestProject1.csproj": {}
+    "/Users/rohitluthra/Desktop/Folder/TestProject1/TestProject1.csproj": {}
   },
   "projects": {
-    "/Users/rohitluthra/Desktop/Folder 1/TestProject1/TestProject1.csproj": {
+    "/Users/rohitluthra/Desktop/Folder/TestProject1/TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rohitluthra/Desktop/Folder 1/TestProject1/TestProject1.csproj",
+        "projectUniqueName": "/Users/rohitluthra/Desktop/Folder/TestProject1/TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "/Users/rohitluthra/Desktop/Folder 1/TestProject1/TestProject1.csproj",
+        "projectPath": "/Users/rohitluthra/Desktop/Folder/TestProject1/TestProject1.csproj",
         "packagesPath": "/Users/rohitluthra/.nuget/packages/",
-        "outputPath": "/Users/rohitluthra/Desktop/Folder 1/TestProject1/obj/",
+        "outputPath": "/Users/rohitluthra/Desktop/Folder/TestProject1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rohitluthra/.nuget/NuGet/NuGet.Config"
